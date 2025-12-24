@@ -30,7 +30,7 @@ ainsi qu’à l’administrateur de gérer le contenu.
 ### 🏠 Page d’accueil
 Affichage général de l’application et accès aux fonctionnalités principales.
 
-![Accueil](demo/images/Frontend/accueil1.png)
+![Accueil](demo/images/Frontend/acceuil1.png)
 
 ---
 
@@ -51,7 +51,7 @@ Consultation de la liste des produits cosmétiques.
 ### 🛒 Réservation
 Ajout d’un produit et validation de la réservation.
 
-![Réservation](demo/images/Frontend/reservation.png)
+![Réservation](demo/images/Frontend/buttonreserver.png)
 
 ---
 
